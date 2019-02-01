@@ -12,6 +12,9 @@
     <modules>
         <module>web-servlet-app</module>
         <module>jaxrs-rest-api</module>
+        <module>spring-boot-simple-app</module>
+        <module>spring-boot-jpa-app</module>
+        <module>spring-boot-web-socket-app</module>
     </modules>
 
     <build>
